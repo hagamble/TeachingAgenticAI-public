@@ -1,0 +1,9 @@
+# Foliensätze bleiben in OneDrive, nicht im Repo
+*.pptx
+*.ppt
+*.key
+
+# macOS / OneDrive
+.DS_Store
+Icon?
+~$*
